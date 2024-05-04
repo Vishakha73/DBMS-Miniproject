@@ -63,7 +63,6 @@
    <a href="About vistara.html"> About Vistara  </a> 
         <h3>Contact us</h3>
    <a href="Contact us.html"> Connect with us  </a>    
-        </body>   
     </body>   
     </html>
     
