@@ -1,1 +1,2 @@
-# DBMS-Miniproject
+Airlines Reservation
+# DBMS project
